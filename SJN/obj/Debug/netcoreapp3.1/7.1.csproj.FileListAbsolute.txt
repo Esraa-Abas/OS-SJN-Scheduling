@@ -1,0 +1,15 @@
+D:\college\os sec\applications\7.1\bin\Debug\netcoreapp3.1\7.1.exe
+D:\college\os sec\applications\7.1\bin\Debug\netcoreapp3.1\7.1.deps.json
+D:\college\os sec\applications\7.1\bin\Debug\netcoreapp3.1\7.1.runtimeconfig.json
+D:\college\os sec\applications\7.1\bin\Debug\netcoreapp3.1\7.1.runtimeconfig.dev.json
+D:\college\os sec\applications\7.1\bin\Debug\netcoreapp3.1\7.1.dll
+D:\college\os sec\applications\7.1\bin\Debug\netcoreapp3.1\7.1.pdb
+D:\college\os sec\applications\7.1\obj\Debug\netcoreapp3.1\7.1.csproj.AssemblyReference.cache
+D:\college\os sec\applications\7.1\obj\Debug\netcoreapp3.1\_7._1.Form1.resources
+D:\college\os sec\applications\7.1\obj\Debug\netcoreapp3.1\7.1.csproj.GenerateResource.cache
+D:\college\os sec\applications\7.1\obj\Debug\netcoreapp3.1\7.1.AssemblyInfoInputs.cache
+D:\college\os sec\applications\7.1\obj\Debug\netcoreapp3.1\7.1.AssemblyInfo.cs
+D:\college\os sec\applications\7.1\obj\Debug\netcoreapp3.1\7.1.csproj.CoreCompileInputs.cache
+D:\college\os sec\applications\7.1\obj\Debug\netcoreapp3.1\7.1.dll
+D:\college\os sec\applications\7.1\obj\Debug\netcoreapp3.1\7.1.pdb
+D:\college\os sec\applications\7.1\obj\Debug\netcoreapp3.1\7.1.genruntimeconfig.cache
